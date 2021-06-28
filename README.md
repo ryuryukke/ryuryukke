@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ryuryukke
 - 👀 I’m interested in NLP
-- 🌱 I’m currently learning NLG
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning NLG usng ML, DL
 
 <!---
 ryuryukke/ryuryukke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
