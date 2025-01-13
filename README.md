@@ -1,5 +1,5 @@
-## Hi there 👋
-I am a CS PhD candidate at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), advised by [Naoaki Okazaki](https://www.chokkan.org/index.en.html). My expected graduation date is March 2026. Currently, I am visiting the [UPenn NLP](https://nlp.cis.upenn.edu/), hosted by [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I also work with [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) from [MBZUAI NLP](https://mbzuai.ac.ae/research-department/natural-language-processing-department/).
+## Hello 👋
+I am Ryuto, a CS PhD candidate at the [Institute of Science Tokyo](https://www.isct.ac.jp/en) (Formerly Tokyo Tech), advised by [Naoaki Okazaki](https://www.chokkan.org/index.en.html). My expected graduation date is March 2026. Currently, I am visiting the [UPenn NLP](https://nlp.cis.upenn.edu/), hosted by [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). I also work with [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) from [MBZUAI NLP](https://mbzuai.ac.ae/research-department/natural-language-processing-department/).
 
 I work on AI safety, specifically improving the safety of large language models (LLMs) from various perspectives, including:
 - Machine-generated Text Detection, especially increasing the **robustness against adversarial attacks in the wild**, regarding a method [OUTFOX (AAAI 2024)](https://arxiv.org/abs/2307.11729) and an evaluation [How You Prompt Matters (Findings of EMNLP 2024)](https://arxiv.org/abs/2311.08369).
