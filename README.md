@@ -1,5 +1,5 @@
 ## Hello 👋
-📢 **Actively looking for full-time industry researcher positions starting in April 2026.**
+📢 **Actively looking for full-time industrial researcher positions starting in April 2026.**
 
 I am Ryuto, a final-year PhD student (est. March 2026) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), advised by Prof. [Naoaki Okazaki](https://www.chokkan.org/index.en.html).
 During my PhD, I have engaged in multiple collaborative research with leading scholars in NLP, including Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) at [Penn NLP](https://nlp.cis.upenn.edu/) (as a visiting student) and Prof. [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) at [MBZUAI NLP](https://mbzuai.ac.ae/research-department/natural-language-processing-department/) (remote). In addition to my PhD research, I am involved as an advisor for a [startup](https://3keigo.com/) on multi-lingual text generation.
