@@ -1,6 +1,4 @@
 ## Hello 👋
-📢 **I am on the job market for 2026! Please reach out if you think my background and experience may be a good fit for your organization.**
-
 
 Hello! I am Ryuto, a final-year PhD student (est. March 2026) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en), advised by Prof. [Naoaki Okazaki](https://www.chokkan.org/index.en.html). 
 My research aims to develop principles and methods for building and ensuring safe, secure, and reliable AI systems, mitigating their negaitve societal implications. 
