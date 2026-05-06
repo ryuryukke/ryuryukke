@@ -7,4 +7,4 @@ My current work focuses on membership inference attacks, AI-generated text detec
 ## Contact
 - Personal website: https://ryuryukke.github.io/
 - Twitter: [@sponddd](https://x.com/sponddd)
-- email: ryuryukke2[at]gmail.com
+- email: ryuto.koike[at]nlp.comp.isct.ac.jp
